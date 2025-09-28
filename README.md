@@ -1,6 +1,5 @@
 # ADNATION
-Exciting New Project Alert! 🚀
-Welcome to My Signup Page Project! 🌟
+Welcome to My Signup Page 🌟
 
 I'm thrilled to share my latest project with you all! 😁 This project showcases a seamless signup page experience with:
 
